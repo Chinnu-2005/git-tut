@@ -32,3 +32,10 @@ Folder where the files are staged before being committed
 
 Working Directoy -> Staging Area -> Local Repository -> Remote Repository
             (single)add       (multiple)commit       push(multiple)
+
+
+Branches 
+================
+A branch is a separate line of development in a repository. It is a pointer to a commit in
+the repository. It is used to isolate changes and to collaborate with others.
+
