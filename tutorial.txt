@@ -1,0 +1,34 @@
+Git and Github Tutorial
+-------------------------------
+Git is Version Control System (VCS) that helps you track changes in your code. It's a powerful tool that
+allows you to collaborate with others, revert to previous versions of your code, and more. It is offline.
+
+GitHub is a web-based platform that uses Git for version control. It allows you to host and share your
+code with others, as well as collaborate on projects.  
+It acts as remote Repository hosting service for free of cost.
+There are many other remote repository hosting services like GitLab, Bitbucket etc.
+
+Repository
+==================
+Folder containing the project details
+
+Types:
+	1. Local Repository
+	---------------
+	Repository in the local computer
+
+	2. Remote Repository
+	------------------
+	Repository hosted remotely in the servers
+
+Working Directory
+--------------------
+Folder where the project is being worked on and which is untracked
+
+Staging Area
+--------------------
+Folder where the files are staged before being committed
+
+
+Working Directoy -> Staging Area -> Local Repository -> Remote Repository
+            (single)add       (multiple)commit       push(multiple)
